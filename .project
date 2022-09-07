@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SDET_RAMAN07</name>
+=======
+	<name>com.githubdemo</name>
+>>>>>>> branch 'master' of https://github.com/ramancset/GithubDemo.git
 	<comment></comment>
 	<projects>
 	</projects>
